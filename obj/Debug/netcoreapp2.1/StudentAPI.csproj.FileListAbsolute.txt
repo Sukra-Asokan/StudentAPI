@@ -1,0 +1,16 @@
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\StudentAPI.deps.json
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\StudentAPI.runtimeconfig.json
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\StudentAPI.runtimeconfig.dev.json
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\StudentAPI.dll
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.1\StudentAPI.pdb
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.csprojAssemblyReference.cache
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.RazorAssemblyInfo.cache
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.RazorAssemblyInfo.cs
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.AssemblyInfo.cs
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.dll
+C:\Users\Comp\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.1\StudentAPI.pdb
